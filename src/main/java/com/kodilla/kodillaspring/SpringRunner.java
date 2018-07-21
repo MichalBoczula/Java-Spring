@@ -1,5 +1,6 @@
 package com.kodilla.kodillaspring;
 
+import com.kodilla.spring.portfolio.TaskList;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
